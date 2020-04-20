@@ -1,2 +1,2 @@
 # SSD_acute_chronic
-Prediction  of chronic SSD 
+This page shows the R code to analyze the relationship between acute and chronic species sensitivity distributions (SSDs) for a variety of chemicals. The manuscript is now in preparation. 
