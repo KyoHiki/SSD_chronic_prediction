@@ -3,9 +3,12 @@ This page shows the R code to analyze the relationship between acute and chronic
 
 
 ## Files
-1. 
-
+1. Rcode.md  
+An example R code for analysis and visualization. This code requires the input datasets (e.g., "example.xlsx").  
+     
 2. example.xlsx  
 This dataset "example.xlsx" includes 20,000 test records randomly selected from the "EnviroTox" database only for demonstration.  
 All the data used in the study was collected from the "EnviroTox" database (https://envirotoxdatabase.org/) and please contact us if you like to exactly reproduce our results.
-
+  
+3. SSD_chronic_figs  
+Figures generated from the example R code.
