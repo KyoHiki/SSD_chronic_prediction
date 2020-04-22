@@ -5,7 +5,7 @@ This page shows the R code to analyze the relationship between acute and chronic
 ## Files
 1. 
 
-2. example.xlsx
+2. example.xlsx 
 This dataset "example.xlsx" includes 20,000 test records randomly selected from the "EnviroTox" database only for demonstration.
 All the data used in the study was collected from the "EnviroTox" database (https://envirotoxdatabase.org/) and please contact us if you like to exactly reproduce our results.
 
