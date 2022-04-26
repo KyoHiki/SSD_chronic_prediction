@@ -3,12 +3,14 @@ knitr::opts_chunk$set(echo = TRUE, message=FALSE,fig.path = "SSD_chronic_figs/fi
 ```
 
 ``` r
-library(openxlsx)
-library(tidyverse)
-library(ggplot2)
-library(ggExtra)
-library(smatr)
-library(EnvStats)
+library(groundhog)
+
+groundhog.library("openxlsx",'2020-09-14')  # load the version of the package that was available on the publication date of Hiki & Iwasaki (2020)
+groundhog.library("tidyverse",'2020-09-14')
+groundhog.library("ggplot2",'2020-09-14')
+groundhog.library("ggExtra",'2020-09-14')
+groundhog.library("smatr",'2020-09-14')
+groundhog.library("EnvStats",'2020-09-14')
 
 
 ### 2: Import the example dataset ###
